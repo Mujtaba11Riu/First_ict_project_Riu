@@ -1,0 +1,145 @@
+body {
+ background-color:rgb(240, 240, 240);
+}
+
+  nav {
+  text-align: right; 
+  margin: 20px 50;
+  }
+
+  nav a {
+    display: inline-block; 
+    text-decoration: none; 
+    color: red; 
+    background-color: black; 
+    padding: 10px 20px; 
+    margin: 0 10px; 
+    border-radius: 45px; 
+    font-family: Arial, sans-serif; 
+    font-size: 18px; 
+    transition: background-color 0.3s, transform 0.2s; 
+  }
+
+  nav a:hover {
+    cursor: pointer;
+    background-color: white; 
+    transform: scale(1.05); 
+  }
+
+
+
+.main_heading {
+ text-align: center; 
+ background:black;
+ color:red;
+ padding: 15px 20px; 
+ margin: 0 10px; 
+ border-radius: 55px; 
+    
+ }
+
+
+
+input{
+   height: 40px;
+    margin: 10px;
+    border: 8px;
+}
+
+  .large-paragraph {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 18px; 
+    line-height: 1.6; 
+    font-family: Arial, sans-serif; 
+    color: white; 
+    text-align: center; 
+    border-radius: 55px; 
+  }
+ 
+
+.text{
+width:fit-content;
+margin-left:550px;
+margin-top:100
+  
+}
+
+
+ img{
+height:500px;
+width:500px;
+}
+
+ img {
+  float: right;
+  border: 2px solid red;
+  margin: 0px 30px 35px 20px;
+  border-radius: 25px; 
+}
+
+
+
+.form-container {
+  text-align: left;
+  padding: 20px;
+  border: 3px solid red;
+  border-radius: 20px;
+  background-color: rgb(225, 225, 234);
+  max-width: 1210px;
+  width: 100%;
+  font-family: Arial, sans-serif;
+  font-size: 16px; 
+}
+
+
+
+
+.btn {
+    cursor: pointer;
+    width: 10%;
+    display: inline-block; 
+    text-decoration: none; 
+    color: red; 
+    background-color: black; 
+    padding: 10px 20px; 
+    margin: 0 10px; 
+    border-radius: 45px; 
+    font-family: Arial, sans-serif; 
+    font-size: 18px; 
+    transition: background-color 0.3s, transform 0.2s; 
+}
+
+
+
+
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 22px;
+    bottom: 10;
+    width: 100%;
+	
+}
+
+.footer p {
+    font-size: 1.rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
